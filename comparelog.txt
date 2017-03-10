@@ -1,0 +1,36 @@
+row=179, col=17, v1=爱立信, v2=N/A
+row=480, col=17, v1=爱立信, v2=N/A
+row=481, col=17, v1=爱立信, v2=N/A
+row=514, col=17, v1=爱立信, v2=华为
+row=997, col=17, v1=爱立信, v2=N/A
+row=1005, col=17, v1=爱立信, v2=N/A
+row=1039, col=17, v1=爱立信, v2=N/A
+row=6536, col=17, v1=爱立信, v2=华为
+row=8975, col=17, v1=爱立信, v2=华为
+row=8995, col=17, v1=爱立信, v2=华为
+row=8996, col=17, v1=爱立信, v2=华为
+row=9196, col=17, v1=爱立信, v2=华为
+row=9512, col=17, v1=爱立信, v2=华为
+row=10126, col=17, v1=爱立信, v2=N/A
+row=10128, col=17, v1=爱立信, v2=N/A
+row=10143, col=17, v1=爱立信, v2=N/A
+row=10286, col=17, v1=爱立信, v2=华为
+row=14280, col=17, v1=爱立信, v2=华为
+row=14555, col=17, v1=爱立信, v2=华为
+row=14557, col=17, v1=爱立信, v2=华为
+row=14864, col=17, v1=爱立信, v2=华为
+row=20315, col=17, v1=华为, v2=N/A
+row=20437, col=17, v1=华为, v2=N/A
+row=20446, col=17, v1=华为, v2=N/A
+row=20526, col=17, v1=华为, v2=N/A
+row=20636, col=17, v1=华为, v2=N/A
+row=30672, col=17, v1=华为, v2=N/A
+row=37886, col=17, v1=爱立信, v2=华为
+row=37887, col=17, v1=爱立信, v2=华为
+row=39807, col=17, v1=爱立信, v2=N/A
+row=40374, col=17, v1=爱立信, v2=N/A
+row=40979, col=17, v1=华为, v2=N/A
+row=41037, col=17, v1=爱立信, v2=N/A
+row=41038, col=17, v1=爱立信, v2=N/A
+row=41041, col=17, v1=华为, v2=N/A
+
